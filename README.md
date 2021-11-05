@@ -3,7 +3,7 @@
 
 ![Preview Banner]()
 
-| <img src="https://cdn.discordapp.com/attachments/643921269590458386/906201296229503046/unknown.png width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/906201037218676746/unknown.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/906204353570930688/a.jpg" width="600"> |
+| <img src="https://cdn.discordapp.com/attachments/643921269590458386/906201296229503046/unknown.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/906201037218676746/unknown.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/906204353570930688/a.jpg" width="600"> |
 |------------|-------------|-------------|
 | Default | ElliottTheme | Home |
 
