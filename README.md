@@ -1,9 +1,7 @@
 # ElliottTheme v2.1.4
 ### ElliottTheme permet d'obtenir unDiscord en plus clair, plus personalisable, avec des animations et sans le spam de pub pour le nitro !
 
-![Preview Banner](https://user-images.githubusercontent.com/58918358/125176488-0d74b200-e1d4-11eb-845a-b8ee0e794631.png)
-
-https://user-images.githubusercontent.com/58918358/122547053-e93c1000-d02f-11eb-9af4-842fa306e7d1.mp4
+![Preview Banner]()
 
 | <img src="https://cdn.discordapp.com/attachments/643921269590458386/906201037218676746/unknown.png" width="600"> | <img src="https://media.discordapp.net/attachments/643921269590458386/906201296229503046/unknown.png?width=1248&height=676" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/906204353570930688/a.jpg" width="600"> |
 |------------|-------------|-------------|
