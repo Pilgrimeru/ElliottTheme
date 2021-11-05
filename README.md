@@ -1,5 +1,5 @@
 # ElliottTheme v2.1.4
-### ElliottTheme permet d'obtenir unDiscord en plus clair, plus personalisable, avec des animations et sans le spam de pub pour le nitro !
+### ElliottTheme permet d'obtenir un Discord plus clair, plus personalisable, avec des animations et sans le spam de pub pour le nitro !
 
 ![Preview Banner]()
 
@@ -23,7 +23,7 @@
 
 ### Prerequisites
 
-Pour utiliser il sera nécessaire d'installer [**BetterDiscord**](https://betterdiscord.app/)  
+Pour l'utiliser il sera nécessaire d'installer [**BetterDiscord**](https://betterdiscord.app/)  
 
 ## Credits
 
