@@ -5,7 +5,7 @@
 
 | <img src="https://cdn.discordapp.com/attachments/643921269590458386/906201037218676746/unknown.png" width="600"> | <img src="https://media.discordapp.net/attachments/643921269590458386/906201296229503046/unknown.png?width=1248&height=676" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/906204353570930688/a.jpg" width="600"> |
 |------------|-------------|-------------|
-| Default | Guild | Home |
+| Default | ElliottTheme | Home |
 
 ## Overview
 
