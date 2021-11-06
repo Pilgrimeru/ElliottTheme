@@ -31,7 +31,7 @@ Pour l'utiliser il sera nécessaire d'installer [**BetterDiscord**](https://bett
 2. Téléchargez le thème ici:
       * [ElliottTheme](https://github.com/Pilgrimeru/ElliottTheme/blob/main/ElliottTheme.theme.css)
 3. Placez le fichier de thème à l'intérieur du dossier themes de BetterDiscord `%AppData%\BetterDiscord\themes`.
-5. Allez dans Paramètres utilisateur de Discord > Thèmes > Sélectionner `ElliottThèmev2.1.4par Pilgrimeru#4540`
+5. Allez dans Paramètres utilisateur de Discord > Thèmes > Sélectionner `ElliottThème v2.1.4 par Pilgrimeru#4540`
 
 ## Credits
 
