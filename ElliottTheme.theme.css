@@ -3,25 +3,52 @@
  * @description Discord en plus clair, plus personalisable, avec des animations et sans le spam de pub pour le nitro !
  * @author      Pilgrimeru#4540
  * @authorId    334103814598557696
- * @version     2.1.4
+ * @version     3.0
  */
 
 @import url("https://pilgrimeru.github.io/ElliottTheme/rawtheme.theme.css");
 
-/* ||||  Variables  |||| */
+    /*------->  ADD-ONS  <-------/* 
+Pour activer une extension, il suffit de supprimer le /* devant @import et enregistrer. */
 
-    /*Paramètres du thème*/
+    /*Dynamic Memberlist*/
+/*@import url("https://pilgrimeru.github.io/ElliottTheme/rawDML.theme.css"); /**/
+
+    /*Custom Background*/
+/* @import url("https://pilgrimeru.github.io/ElliottTheme/rawCB.theme.css"); /**/
+
+
+    /*------->  CUSTOMISATION  <-------*/ 
 :root {
-    --light: 8%; /*Par defaut sur discord = 12% (ne marche qu'avec le theme sombre)*/
-    --border-alt: 10px; /*Par defaut sur discord = 5px*/
-    --border: 10px; /*Par defaut sur discord = 0px*/
-    --marge: 7px; /*Par defaut sur discord = 0px*/
-    --marge-ext: 4px; /*Par defaut sur discord = 0px*/
+
+    /* ||||  Paramètre du thème principal  |||| */
+
+--light: 8%; /*par defaut sur discord = 12% (ne marche qu'avec le theme sombre)*/
+--border-alt: 10px; /*par defaut sur discord = 5px*/
+--border: 10px; /*par defaut sur discord = 0px*/
+--marge: 7px; /*par defaut sur discord = 0px*/
+--marge-ext: 4px; /*par defaut sur discord = 0px*/
+
+    /* ||||  Paramètre de Dynamic Memberlist  |||| */
+    
+--speed: 350ms; /*vitesse d'animation de rabattement*/
+
+    /* ||||  Paramètre de Custom Background  |||| */
+
+--background-image: url(https://i.ibb.co/Lrc3hJY/background.jpg); /*pour changer de fond, il suffit de mettre le lien de l'image souhaité dans les parenthèses*/
+--transparency: 15%; /*niveau de transparence*/
+--blur: 2px; /*niveau de flou*/
+
 }
 
-/* ||||  INSPIRATION  ||||
+/*
+  ||||  INSPIRATIONS  ||||
     https://github.com/TBDG5310/BetterDiscord/tree/master/Themes/MaterialCord 
     https://github.com/DiscordStyles/iPadOS
     https://github.com/CorellanStoma/CreArts-Discord
     #css-snippets et custom-css du serveur officiel BetterDiscord
+
+   ||||  INSPIRATIONS pour Custom Background  ||||
+    https://github.com/CapnKitten/Translucence
+    https://github.com/LeafyLuigi/discord-themes/tree/master/pyrite
 */
