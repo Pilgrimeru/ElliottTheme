@@ -12,8 +12,8 @@ Discord en plus clair, plus personalisable, avec des animations et sans le spam 
 * Luminosité du theme sombre personnalisable
 * Les différents angles sont personnalisable
 * Extentions :
-     [**Dynamic Memberlist**](https://github.com/Pilgrimeru/ElliottTheme/blob/main/Dynamic_Memberlist.theme.css)
-     [**Custom Background**](https://github.com/Pilgrimeru/ElliottTheme/blob/main/Custom_Background.theme.css)
+     - [**Dynamic Memberlist**](https://github.com/Pilgrimeru/ElliottTheme/blob/main/Dynamic_Memberlist.theme.css)
+     - [**Custom Background**](https://github.com/Pilgrimeru/ElliottTheme/blob/main/Custom_Background.theme.css)
 
 ### Plugin Support
 * Le theme ne prend pas de Plugin particulier 
