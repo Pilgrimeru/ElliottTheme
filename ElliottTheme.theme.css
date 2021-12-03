@@ -6,16 +6,16 @@
  * @version     3.0
  */
 
-@import url("https://pilgrimeru.github.io/ElliottTheme/rawtheme.theme.css");
+@import url("https://pilgrimeru.github.io/ElliottTheme/raw/main.css");
 
     /*------->  ADD-ONS  <-------/* 
 Pour activer une extension, il suffit de supprimer le /* devant @import et enregistrer. */
 
     /*Dynamic Memberlist*/
-/*@import url("https://pilgrimeru.github.io/ElliottTheme/rawDML.theme.css"); /**/
+/*@import url("https://pilgrimeru.github.io/ElliottTheme/raw/DML.css"); /**/
 
     /*Custom Background*/
-/* @import url("https://pilgrimeru.github.io/ElliottTheme/rawCB.theme.css"); /**/
+/* @import url("https://pilgrimeru.github.io/ElliottTheme/raw/CB.css"); /**/
 
 
     /*------->  CUSTOMISATION  <-------*/ 
