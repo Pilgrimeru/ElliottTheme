@@ -3,7 +3,7 @@
  * @description Discord en plus clair, plus personalisable, avec des animations et sans le spam de pub pour le nitro !
  * @author      Pilgrimeru#4540
  * @authorId    334103814598557696
- * @version     3.0
+ * @version     4.0
  */
 
 @import url("https://pilgrimeru.github.io/ElliottTheme/raw/main.css");
@@ -12,10 +12,13 @@
 Pour activer une extension, il suffit de supprimer le /* devant @import et enregistrer. */
 
     /*Dynamic Memberlist*/
-/*@import url("https://pilgrimeru.github.io/ElliottTheme/raw/DML.css"); /**/
+/* @import url("https://pilgrimeru.github.io/ElliottTheme/raw/DML.css"); /**/
 
     /*Custom Background*/
 /* @import url("https://pilgrimeru.github.io/ElliottTheme/raw/CB.css"); /**/
+
+    /*Chat Bubules*/
+/* @import url("https://pilgrimeru.github.io/ElliottTheme/raw/BBL.css"); /**/
 
 
     /*------->  CUSTOMISATION  <-------*/ 
@@ -37,7 +40,7 @@ Pour activer une extension, il suffit de supprimer le /* devant @import et enreg
 
 --background-image: url(https://i.ibb.co/Lrc3hJY/background.jpg); /*pour changer de fond, il suffit de mettre le lien de l'image souhaité dans les parenthèses*/
 --transparency: 15%; /*niveau de transparence*/
---blur: 2px; /*niveau de flou*/
+--blur: 0px; /*niveau de flou*/
 
 }
 
