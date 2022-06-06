@@ -12,7 +12,7 @@ Discord en plus clair, plus personalisable, avec des animations et sans le spam 
 ### Dynamic Memberlist
 <img src="https://cdn.discordapp.com/attachments/643921269590458386/983368000977649714/DML.gif" width="240">
 
-### [Observe par toi même](https://cutt.ly/xJI3eYN)
+### Observe par toi même en cliquant [ICI](https://cutt.ly/xJI3eYN)
 
 À noter : L'aperçu peut avoir des réaction différentes ou certains dysfonctionnements du fait que ce n'est pas l'application discord officielle.
 
