@@ -10,9 +10,8 @@ Discord en plus clair, plus personalisable, avec des animations et sans le spam 
 |------------|-------------|
 | Default | ElliottTheme |
 
-<video src="https://cdn.discordapp.com/attachments/643921269590458386/983364526869192807/DML.mp4" width=600>
-
 ## Overview
+<video src="https://cdn.discordapp.com/attachments/643921269590458386/983364526869192807/DML.mp4" width=600>
 
 ### Features
 * Largeur des marges interne et externe personnalisable
