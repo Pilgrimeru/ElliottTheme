@@ -12,9 +12,7 @@ Discord en plus clair, plus personalisable, avec des animations et sans le spam 
 ### Dynamic Memberlist
 <img src="https://cdn.discordapp.com/attachments/643921269590458386/983368000977649714/DML.gif" width="240">
 
-## Overview
-
-### Features
+## Features
 * Largeur des marges interne et externe personnalisable
 * Luminosité du theme sombre personnalisable
 * Les différents angles sont personnalisable
@@ -23,13 +21,9 @@ Discord en plus clair, plus personalisable, avec des animations et sans le spam 
      - [**Custom Background**](https://pilgrimeru.github.io/ElliottTheme/raw/CB.css)
      - [**Chat Bubule**](https://pilgrimeru.github.io/ElliottTheme/raw/BBL.css)
 
-### Plugin Support
-* Le theme ne prend pas de Plugin particulier 
+## Pour commencer
 
-
-## Getting Started
-
-### Prerequisites
+### Conditions préalables
 
 Pour l'utiliser il sera nécessaire d'installer [**BetterDiscord**](https://betterdiscord.app/)  
 
