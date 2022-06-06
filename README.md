@@ -12,7 +12,7 @@ Discord en plus clair, plus personalisable, avec des animations et sans le spam 
 ### Dynamic Memberlist
 <img src="https://cdn.discordapp.com/attachments/643921269590458386/983368000977649714/DML.gif" width="240">
 
-## Features
+## Fonctionnalités
 * Largeur des marges interne et externe personnalisable
 * Luminosité du theme sombre personnalisable
 * Les différents angles sont personnalisable
