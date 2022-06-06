@@ -1,9 +1,16 @@
 # ElliottTheme v4.0
 Discord en plus clair, plus personalisable, avec des animations et sans le spam de pub pour le nitro !
 
+## Aperçu 
 | <img src="https://media.discordapp.net/attachments/643921269590458386/983354956973240340/defaut.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/983354956675448832/Main.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/983354956188876851/CB.png" width="600"> |
 |------------|-------------|-------------|
 | Default | ElliottTheme | ElliottTheme + Custom background |
+### Chat Bubule
+| <img src="https://cdn.discordapp.com/attachments/643921269590458386/983354955362615296/BBL-CB.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/983354955891105863/BBL-Main.png" width="600"> |
+|------------|-------------|
+| Default | ElliottTheme |
+
+<img src="https://cdn.discordapp.com/attachments/643921269590458386/983364526869192807/DML.mp4" width="600">
 
 ## Overview
 
