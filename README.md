@@ -9,9 +9,9 @@ Discord en plus clair, plus personalisable, avec des animations et sans le spam 
 | <img src="https://cdn.discordapp.com/attachments/643921269590458386/983354955362615296/BBL-CB.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/983354955891105863/BBL-Main.png" width="600"> |
 |------------|-------------|
 | Default | ElliottTheme |
-
+### Chat Bubule
+<img src="https://cdn.discordapp.com/attachments/643921269590458386/983368000977649714/DML.gif" width="600">
 ## Overview
-<video src="https://cdn.discordapp.com/attachments/643921269590458386/983364526869192807/DML.mp4" width="600">
 
 ### Features
 * Largeur des marges interne et externe personnalisable
