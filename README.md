@@ -11,6 +11,9 @@ Discord en plus clair, plus personalisable, avec des animations et sans le spam 
 | ElliottTheme + Bubule | Custom background + Bubule |
 ### Dynamic Memberlist
 <img src="https://cdn.discordapp.com/attachments/643921269590458386/983368000977649714/DML.gif" width="240">
+### Observe par toi même
+À noter : L'aperçu peut avoir des réaction différentes ou certains dysfonctionnements du fait que ce n'est pas l'application discord officielle.
+https://gibbu.github.io/ThemePreview/?file=https://cdn.discordapp.com/attachments/643921269590458386/983371653574717450/ElliottTheme.theme.css
 
 ## Fonctionnalités
 * Largeur des marges interne et externe personnalisable
