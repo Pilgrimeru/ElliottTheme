@@ -14,7 +14,7 @@ Discord en plus clair, plus personalisable, avec des animations et sans le spam 
 
 ### Observe par toi même en cliquant [ICI](https://cutt.ly/xJI3eYN)
 
-À noter : L'aperçu peut avoir des réaction différentes ou certains dysfonctionnements du fait que ce n'est pas l'application discord officielle.
+À noter : L'aperçu peut avoir des réactions différentes ou certains dysfonctionnements du fait que ce n'est pas l'application discord officielle.
 
 
 ## Fonctionnalités
