@@ -1,9 +1,9 @@
-# ElliottTheme v2.1.4
+# ElliottTheme v4.0
 Discord en plus clair, plus personalisable, avec des animations et sans le spam de pub pour le nitro !
 
-| <img src="https://cdn.discordapp.com/attachments/643921269590458386/906201296229503046/unknown.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/906201037218676746/unknown.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/906204353570930688/a.jpg" width="600"> |
+| <img src="https://media.discordapp.net/attachments/643921269590458386/983354956973240340/defaut.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/983354956675448832/Main.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/983354956188876851/CB.png" width="600"> |
 |------------|-------------|-------------|
-| Default | ElliottTheme | Home |
+| Default | ElliottTheme | ElliottTheme + Custom background |
 
 ## Overview
 
@@ -12,8 +12,9 @@ Discord en plus clair, plus personalisable, avec des animations et sans le spam 
 * Luminosité du theme sombre personnalisable
 * Les différents angles sont personnalisable
 * Extentions :
-     - [**Dynamic Memberlist**](https://github.com/Pilgrimeru/ElliottTheme/blob/main/Dynamic_Memberlist.theme.css)
-     - [**Custom Background**](https://github.com/Pilgrimeru/ElliottTheme/blob/main/Custom_Background.theme.css)
+     - [**Dynamic Memberlist**](https://pilgrimeru.github.io/ElliottTheme/raw/DML.css)
+     - [**Custom Background**](https://pilgrimeru.github.io/ElliottTheme/raw/CB.css)
+     - [**Chat Bubule**](https://pilgrimeru.github.io/ElliottTheme/raw/BBL.css)
 
 ### Plugin Support
 * Le theme ne prend pas de Plugin particulier 
@@ -29,9 +30,9 @@ Pour l'utiliser il sera nécessaire d'installer [**BetterDiscord**](https://bett
 
 1. S'assurez vous que [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest) est installé.
 2. Téléchargez le thème ici:
-      * [ElliottTheme](https://github.com/Pilgrimeru/ElliottTheme/blob/main/ElliottTheme.theme.css)
+      * [ElliottTheme](https://pilgrimeru.github.io/ElliottTheme/raw/main.css)
 3. Placez le fichier de thème à l'intérieur du dossier themes de BetterDiscord `%AppData%\BetterDiscord\themes`.
-5. Allez dans Paramètres utilisateur de Discord > Thèmes > Sélectionner `ElliottThème v2.1.4 par Pilgrimeru#4540`
+5. Allez dans Paramètres utilisateur de Discord > Thèmes > Sélectionner `ElliottThème v4.0 par Pilgrimeru#4540`
 
 ## Credits
 
