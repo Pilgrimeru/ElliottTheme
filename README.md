@@ -10,7 +10,7 @@ Discord en plus clair, plus personalisable, avec des animations et sans le spam 
 |------------|-------------|
 | Default | ElliottTheme |
 ### Chat Bubule
-<img src="https://cdn.discordapp.com/attachments/643921269590458386/983368000977649714/DML.gif" width="60">
+<img src="https://cdn.discordapp.com/attachments/643921269590458386/983368000977649714/DML.gif" width="240">
 ## Overview
 
 ### Features
