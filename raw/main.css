@@ -267,6 +267,10 @@
 .chat-2ZfjoI {
   border-radius: var(--border-alt);
 }
+/*Channel Description*/
+.modal-3Hrb0S {
+  border-radius: var(--border);
+}
 /*Spoiler blur*/
 .contents-2MsGLg .spoilerText-27bIiA.hidden-3B-Rum,
 .contents-2MsGLg .spoilerText-27bIiA.hidden-3B-Rum:hover,
@@ -940,7 +944,7 @@ div.container-3XgAHv .chat-1-OBC7:not(.chatSidebarOpen--YCxhs .chat-1-OBC7) {
 .focused-3qFvc8 {
   border-radius: var(--border-alt);
 }
-.menu-1QACrS {
+.menu-2TXYjN {
   border-radius: var(--border-alt);
 }
 
