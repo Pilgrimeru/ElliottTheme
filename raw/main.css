@@ -291,6 +291,37 @@
 
 /* ||||  CHATBOX  |||| */
 
+/*Post*/
+.container-3wLKDe {
+  border-radius: var(--border);
+}
+/*Server Guide*/
+.auto-2TJ1RH.scrollerBase-1Pkza4:not(.contentRegionScroller-2_GT_N) {
+  background-color: var(--background-primary);
+  margin-left: var(--marge);
+  margin-top: var(--marge);
+  margin-bottom: var(--marge-ext);
+  margin-right: var(--marge-ext);
+  border-radius: var(--border);
+}
+.threadSidebarOpen-1LSXvU .auto-2TJ1RH.scrollerBase-1Pkza4 {
+  margin-right: 0 !important;
+}
+/*Roles channel*/
+.emptyPage-2TGR7j, .scrollerContainer-y16Rs9 {
+  background-color: var(--background-primary);
+}
+.container-2IKOsH, .header-3xB4vB {
+  background-color: var(--background-primary);
+}
+.profile-3xd-Cg {
+  background-color: var(--background-secondary);
+  padding: 10px;
+  border-radius: var(--border);
+  height: fit-content;
+}
+
+/*main chat*/
 .scrollableContainer-15eg7h {
   position: relative;
   z-index: 2;
@@ -660,10 +691,6 @@ div.container-3XgAHv .chat-1-OBC7:not(.chatSidebarOpen--YCxhs .chat-1-OBC7) {
   border-radius: var(--border-alt);
 }
 
-/*masque le bouton "Fils actif" dans la liste des salons*/
-.wrapper-NhbLHG:nth-child(3) {
-  margin-top: -50px;
-}
 /*Connected voice*/
 .inner-llGtyq:hover .channel-3prF2u {
   height: 13px;
@@ -1733,6 +1760,16 @@ div.buttons-uaqb-5 > button {
 .button-3bklZh[aria-label="Add Super Reaction"],
 .button-3bklZh[aria-label="Ajouter une super réaction"] {
   display: none !important;
+}
+/*Achete une décoration de profil*/
+.containerWrapper-WZBNDK {
+  display: none !important;
+}
+/*Personnalise ton profil*/
+.premiumFeatureBorder-1i95si,
+.upsellOverlayContainer-3NMgTS,
+.premiumFeatureBannerBackground-Epwl-X {
+    display: none;
 }
 
 
