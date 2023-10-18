@@ -1,3 +1,11 @@
+:root {
+  --light: 8%;
+  --border-alt: 10px;
+  --border: 10px;
+  --marge: 7px;
+  --marge-ext: 4px;
+}
+
 /* SOMMAIRE :
 1] TITLE BAR
 2] NOTICE (TOP)
@@ -28,21 +36,21 @@
 */
 
 /* ||||  TITLE BAR  |||| */
-.typeWindows-2-g3UY {
+.typeWindows-3ILlhq {
   margin-top: 0;
 }
 /*Change l'emplacement des icônes "reduire" "agrandir" "fermer"*/
 
-.typeWindows-2-g3UY {
+.typeWindows-3ILlhq {
   height: max(10px, var(--marge-ext)) !important;
 }
-.wordmarkWindows-2dq6rw {
+.wordmarkWindows-1rsity {
   display: none;
 }
 .platform-win .toolbar-3_r2xA {
   margin-right: 135px;
 }
-#app-mount .winButton-3UMjdg {
+#app-mount .winButton-3SigSb {
   top: 0;
   right: var(--marge-ext);
   height: 48px;
@@ -50,27 +58,27 @@
   margin-top: max(10px, var(--marge-ext));
   z-index: 1;
 }
-.winButton-3UMjdg {
+.winButton-3SigSb {
   color: var(--interactive-active);
 }
-.titleBar-1it3bQ .winButton-3UMjdg:nth-child(3) {
+.titleBar-3AIemB .winButton-3SigSb:nth-child(3) {
   border-radius: 0 !important;
 }
-.titleBar-1it3bQ .winButton-3UMjdg:nth-child(4) {
+.titleBar-3AIemB .winButton-3SigSb:nth-child(4) {
   border-radius: var(--border) 0 0 var(--border) !important;
 }
-.titleBar-1it3bQ .winButtonClose-3Q8ZH5 {
+.titleBar-3AIemB .winButtonClose-23zAIt {
   top: calc(0px - max(10px, var(--marge-ext))) !important;
   height: 10px !important;
   right: 0 !important;
   border-radius: 0;
   background-color: transparent;
 }
-.winButtonClose-3Q8ZH5 svg:hover {
+.winButtonClose-23zAIt svg:hover {
   background-color: #ed4245;
   border-radius: 0 var(--border) var(--border) 0 !important;
 }
-.winButtonClose-3Q8ZH5 svg {
+.winButtonClose-23zAIt svg {
   padding: 18px;
   top: calc(19px + max(10px, var(--marge-ext)));
   right: var(--marge-ext);
@@ -234,6 +242,10 @@
   box-shadow: none;
   background-color: var(--background-secondary-alt) !important;
 }
+/* POSTS */
+.container-3wLKDe {
+  background: var(--background-secondary);
+}
 /*Main*/
 .content-18rAwf {
   margin: var(--marge) var(--marge-ext) var(--marge-ext) var(--marge);
@@ -251,8 +263,9 @@
 .auto-2TJ1RH.scrollerBase-1Pkza4:not(.contentRegionScroller-2_GT_N) {
   height: calc(100% - 5px);
 }
-.chat-2ZfjoI {
+.chat-9g_3Xj {
   background-color: var(--background-tertiary);
+  border-radius: var(--border-alt);
 }
 .buttons-3dF5Kd {
   padding: 0;
@@ -267,9 +280,6 @@
   border-radius: var(--border-alt);
 }
 
-.chat-2ZfjoI {
-  border-radius: var(--border-alt);
-}
 /*Channel Description*/
 .modal-3Hrb0S {
   border-radius: var(--border);
@@ -299,7 +309,7 @@
   border-radius: var(--border);
 }
 /*Server Guide*/
-.auto-2TJ1RH.scrollerBase-1Pkza4:not(.contentRegionScroller-2_GT_N) {
+.auto-2TJ1RH.scrollerBase-1Pkza4:not(.contentRegionScroller-2_GT_N, .scrollerBase-1Pkza4) {
   background-color: var(--background-primary);
   margin-left: var(--marge);
   margin-top: var(--marge);
@@ -347,11 +357,11 @@
   display: flex;
   flex-flow: column-reverse;
   background-color: transparent;
+  padding-left: 0;
+  padding-right: 0;
 }
 .form-3qe0Ni::before {
   display: none;
-  padding-left: 0;
-  padding-right: 0;
 }
 .base-3bcbY3 {
   font-size: 12px;
@@ -502,42 +512,44 @@
 
 /* ||||  THREADS / VOICE CHAT |||| */
 
-div.container-3XgAHv.floating-3M3WeH {
-  margin-left: var(--marge);
-  position: relative;
+.resizeHandle-2F4Beb {
+  width: var(--marge);
 }
-div.container-3XgAHv {
-  border-left: none;
+.container-3s2w-i {
+  margin: 0 var(--marge-ext) var(--marge-ext) 0;
   background: none;
 }
-div.container-3XgAHv .container-ZMc96U {
-  margin-bottom: var(--marge);
-  width: calc(100% - var(--marge-ext));
+.chat-1-OBC7,
+.chat-1rZYgu {
+  margin-top: var(--marge);
+}
+.chat-1rZYgu::before {
+  display: none;
+}
+.container-1RZJZM .container-ZMc96U{
   margin-left: 0;
+  margin-right: 0;
+  width: 100%;
 }
-
-div.container-3XgAHv .chat-9g_3Xj {
-  padding-top: 0 !important;
+.form-Ti9oXE {
+  background-color: var(--background-secondary);
+  border-radius: var(--border-alt);
 }
-div.container-3XgAHv .chat-9g_3Xj:not(.chatSidebarOpen--YCxhs .chat-9g_3Xj) {
-  margin-bottom: var(--marge-ext) !important
+.channelTextArea-3TZH74 {
+  margin: 0;
+  width: 100%;
 }
-.container-3XgAHv .chatContent-2O4SXb {
-  margin: 0 calc(var(--marge-ext)) 0 0 !important
+.container-3s2w-i .container-ZMc96U {
+  width: 100%;
+  margin: 0;
 }
-.wrapper-1gVUIN.chatSidebarOpen--YCxhs {
-  margin: 0 0 0 var(--marge);
-}
-.resizeHandle-PBRzPC {
-  width: max(var(--marge), 3px);
-}
-.threadSidebarOpen-1LSXvU .content-18rAwf {
+.threadSidebarOpen-lv7sGl .content-18rAwf {
   width: calc(100% - var(--marge));
 }
-.threadSidebarOpen-1LSXvU .container-ZMc96U {
+.threadSidebarOpen-lv7sGl .container-ZMc96U {
   width: calc(100% - var(--marge));
 }
-.threadSidebarOpen-1LSXvU .toolbar-3_r2xA {
+.threadSidebarOpen-lv7sGl .toolbar-3_r2xA {
   margin-right: 0;
 }
 
@@ -1178,8 +1190,6 @@ div.container-3XgAHv .chat-9g_3Xj:not(.chatSidebarOpen--YCxhs .chat-9g_3Xj) {
   height: unset;
 }
 
-/* ||||  DISCOVERY PAGE  |||| */
-
 /*Main*/
 .pageWrapper-2PwDoS {
   border-radius: var(--border);
@@ -1190,6 +1200,7 @@ div.container-3XgAHv .chat-9g_3Xj:not(.chatSidebarOpen--YCxhs .chat-9g_3Xj) {
 .searchBox-pyIJJj.searchBox-31Zv9h {
   border-radius: 25px;
 }
+
 .scroller-RfJjkV {
   margin: 0 var(--marge-ext) var(--marge-ext) var(--marge);
   height: unset;
@@ -1374,7 +1385,7 @@ div.container-3XgAHv .chat-9g_3Xj:not(.chatSidebarOpen--YCxhs .chat-9g_3Xj) {
   transform-origin: top
 }
 /*Settings icon*/
-.container-YkUktl .button-12Fmur:nth-child(3):hover .contents-3NembX {
+.container-1CH86i .button-12Fmur:nth-child(3):hover .contents-3NembX {
   transform: rotate(90deg);
   transition: 1300ms 100ms;
   animation: settings-icon 6.5s infinite linear;
@@ -1819,7 +1830,7 @@ div.buttons-uaqb-5 > button {
 .panels-3wFtMD {
   border-radius: var(--border);
 }
-.container-YkUktl {
+.container-1CH86i {
   height: 50px;
 }
 .container-PNkimc {
@@ -1835,9 +1846,10 @@ div.buttons-uaqb-5 > button {
   display: none;
 }
 button,
+input,
 #app-mount #bd-settings-sidebar .ui-tab-bar-item,
 .container-ZMc96U .themed-2-lozF.item-3XjbnG:hover {
-  border-radius: var(--border-alt);
+  border-radius: var(--border-alt) !important;
 }
 .item-1OdjEX,
 .bd-addon-card,
