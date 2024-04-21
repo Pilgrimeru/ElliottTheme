@@ -561,6 +561,22 @@
 .threadSidebarOpen__62c31 .toolbar__62fb5 {
 	margin-right: 0;
 }
+/*voice chat*/
+.floating__8f631 {
+    background: var(--background-tertiary) !important;
+    padding-left: var(--marge);
+    border-left: none;
+    border-radius: 0 var(--border) var(--border) 0;
+}
+
+.floating__8f631 .chatContent_f087cb,
+.channelChatWrapper__43f43 .chatContent_f087cb {
+    margin-top: var(--marge);
+    margin-right: 0 !important;
+}
+.channelChatWrapper__43f43 .container__694a1 {
+    margin-right: 0;
+}
 /*pofile admin view*/
 .sidebarContianer__623bd {
 	margin-right: var(--marge-ext);
