@@ -1101,6 +1101,12 @@
 .item-2OyinQ:last-child {
 	margin-right: 0;
 }
+.fullScreen_b3f0af .root__3eef0 .chatButton_a40cc3:not(.chatButtonShowing__460dc) {
+    margin-right: 0;
+}
+.hidden__7c832 + .base_c0676e .chat__52833{
+    border-radius: 0;
+}
 
 /* ||||  SERVER MESSAGE SEARCH  |||| */
 
