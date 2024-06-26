@@ -5,16 +5,8 @@ Discord en plus clair, plus personalisable, avec des animations et sans le spam 
 
 ### Observe par toi même en cliquant [ICI](https://gibbu.github.io/ThemePreview/?file=https://cdn.discordapp.com/attachments/643921269590458386/983371653574717450/ElliottTheme.theme.css)
 À noter : L'aperçu peut avoir des réactions différentes ou certains dysfonctionnements du fait que ce n'est pas l'application discord officielle.
-### ElliottTheme
-| <img src="https://media.discordapp.net/attachments/643921269590458386/983354956973240340/defaut.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/983354956675448832/Main.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/983354956188876851/CB.png" width="600"> |
-|------------|-------------|-------------|
-| Default | ElliottTheme | ElliottTheme + Custom background |
-### Chat Bubule
-| <img src="https://cdn.discordapp.com/attachments/643921269590458386/983354955891105863/BBL-Main.png" width="600"> | <img src="https://cdn.discordapp.com/attachments/643921269590458386/983354955362615296/BBL-CB.png" width="600"> |
-|------------|-------------|
-| ElliottTheme + Bubule | Custom background + Bubule |
+
 ### Dynamic Memberlist
-<img src="https://cdn.discordapp.com/attachments/643921269590458386/983368000977649714/DML.gif" width="240">
 
 ## Fonctionnalités
 * Largeur des marges interne et externe personnalisable
